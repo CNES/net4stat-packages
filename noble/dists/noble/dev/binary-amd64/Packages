@@ -14,6 +14,24 @@ SHA1: ab1934f3eb3e01aaeb1147378f850a0ced923ba8
 MD5sum: 280687cda00b36e2845eba678be2cdd7
 Description: OpenBACH collect-agent API
 
+Package: d-itg-openbach
+Version: 2.8.1-2-1
+Architecture: amd64
+Maintainer: OpenBACH support Team <support@openbach.org>
+Installed-Size: 429
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/dev/d/d-itg-openbach/d-itg-openbach_2.8.1-2-1_amd64.deb
+Size: 128884
+SHA256: bdd8b5013469b8d81d7b866c5373353baefaf2e97c9ffeee6ccef3fd797eee34
+SHA1: b7f4ad8951d2a79a5756ae6968c770a4630fd36a
+MD5sum: 6608ce04498365f99d7e91d2c4823572
+Description: <insert up to 60 chars description>
+ <Insert long description, indented with spaces.>
+
 Package: libgse
 Version: 1.2.2~dev~1719922087
 Architecture: amd64
