@@ -32,6 +32,26 @@ MD5sum: 6608ce04498365f99d7e91d2c4823572
 Description: <insert up to 60 chars description>
  <Insert long description, indented with spaces.>
 
+Package: iperf3-openbach
+Version: 3.10.1-1
+Architecture: amd64
+Maintainer: OpenBACH support Team <support@openbach.org>
+Installed-Size: 530
+Depends: libc6 (>= 2.38)
+Conflicts: iperf3, libiperf0
+Provides: iperf3, libiperf0
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/dev/i/iperf3-openbach/iperf3-openbach_3.10.1-1_amd64.deb
+Size: 125422
+SHA256: 12d236539c861554fac425e8f3276b8b9cb068b9e3bee8718583a149b8fb2aff
+SHA1: 44bb999b49dd93ae8ace91af762474c10e0077fb
+MD5sum: ab6d29cfbfcdf969b2bab07db7ae0e1f
+Description: <insert up to 60 chars description>
+ <Insert long description, indented with spaces.>
+
 Package: libgse
 Version: 1.2.2~dev~1719922087
 Architecture: amd64
