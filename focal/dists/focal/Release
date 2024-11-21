@@ -1,7 +1,7 @@
 Origin: github.com/CNES/net4sat-packages/focal
 Label: APT Repository
 Codename: focal
-Date: Wed, 20 Nov 2024 18:18:57 UTC
+Date: Thu, 21 Nov 2024 11:32:49 UTC
 Architectures: amd64
 Components: stable dev testing
 Description: Collection of metrology, testing and simulation tools
@@ -12,8 +12,8 @@ MD5Sum:
  3c9f48b82d9027c1a5fb6e7d1b528ecd 27804 dev/binary-amd64/Packages
  6948b4e4c1938e933bb6dbde45099218 6714 dev/binary-amd64/Packages.gz
  b40672023fff12c2db7e057d98764344 171 dev/binary-amd64/Release
- 48fedcd1cd01125e9fccd662b200178c 20687 testing/binary-amd64/Packages
- 4eaf8344d1a8b87c49e8b5981727d097 4359 testing/binary-amd64/Packages.gz
+ e4cb351322545a663ea38f014a088d7c 20687 testing/binary-amd64/Packages
+ 7e61863cac85307f201fe93f9aa02ab7 4349 testing/binary-amd64/Packages.gz
  c5ba9d870e286b7c97d132d34774f84f 175 testing/binary-amd64/Release
 SHA1:
  2cd9037598eb8a4eea3be6fcaf24b9986d37ea65 25950 stable/binary-amd64/Packages
@@ -22,8 +22,8 @@ SHA1:
  d5ecc7766deb7fd573f93a9f45e429429126ee45 27804 dev/binary-amd64/Packages
  ed4fd5280285489384fc65be45272c34afb4f897 6714 dev/binary-amd64/Packages.gz
  75020e51e845b5f050d74ebc835b7f8d712cc0c1 171 dev/binary-amd64/Release
- 940f363a8142ee82140f3cfb0ca577e56517f3e7 20687 testing/binary-amd64/Packages
- 4a539e71db5b869cdcd68762a390a53161e8c2b3 4359 testing/binary-amd64/Packages.gz
+ bf87e9a77866f7f48384260c7b6264bcaef9926f 20687 testing/binary-amd64/Packages
+ d171c10a4714225bcd07b5cd3ffe08c559e619ae 4349 testing/binary-amd64/Packages.gz
  9efe7bebde45bb27ba4d9db4ae746442a791d7e2 175 testing/binary-amd64/Release
 SHA256:
  3e2dcd31ba1a9b660841abdfda94262d35efad20433f5711d1a817378394ab8e 25950 stable/binary-amd64/Packages
@@ -32,6 +32,6 @@ SHA256:
  e747cdce7fbddeb202d57ee4c1097caabe1394bfa41155f0b60c9999ec200e06 27804 dev/binary-amd64/Packages
  31093d301a30f92efa088618621f81f2805bab754c3cdaf9a46f5a4f7980834e 6714 dev/binary-amd64/Packages.gz
  e53566d69a480fc4a2dcf271220605d261225795d486b51730dbbc7493c6f5e2 171 dev/binary-amd64/Release
- 51b0c95aa41fdaff1bb4ec9329df7d0c74d3824bdc88a208bf14ba77999cae11 20687 testing/binary-amd64/Packages
- 7734ab0cb94a49e08ce731d2a337ffe08ad9b642309f60ffc35950cf05ff6632 4359 testing/binary-amd64/Packages.gz
+ efa550db26e91b79e4df44ec862b7b11f00e5bf54e12045bb2d8892d050f99cb 20687 testing/binary-amd64/Packages
+ 3ef5c6233b0ab7b71c08a1fdb23047cf90868b7b2389c25cec79420b7d5a5fd4 4349 testing/binary-amd64/Packages.gz
  65eab3f3337c7c7c592d173f6d2bd4c0e8174a63d42245fce8d9766f48a06bd3 175 testing/binary-amd64/Release
